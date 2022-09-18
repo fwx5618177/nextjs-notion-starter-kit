@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Moxixii Notion',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'notation.moxixii.com',
   author: 'Moxixii',
 
   // open graph metadata (optional)
@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'transitive_bs',
-  github: 'https://github.com/fwx5618177',
+  github: 'fwx5618177',
   linkedin: 'fisch2',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
